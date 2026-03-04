@@ -10,7 +10,7 @@ const Home = () => {
       <div className="home-content">
         <div className="text-section">
           <br />
-          <h1 className="title">Hi, I'm xyz</h1>
+          <h1 className="title">Hi, I'm name</h1>
           <h2 className="subtitle">Creative Developer & Designer</h2>
           <p className="description">
             Welcome to my portfolio! I'm passionate about crafting beautiful,
